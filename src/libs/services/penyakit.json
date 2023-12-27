@@ -1,0 +1,28 @@
+[
+    {
+      "indikasi": [
+        "keringat",
+        "menangis",
+        "rewel",
+        "panas"
+      ],
+      "diagnosa": "demam",
+      "rekomendasi": "https://www.docdoc.com/id/info/condition/anak-dengan-demam"
+    },
+    {
+      "indikasi": ["bersin", "batuk","sulit","tidur","rewel"],
+      "diagnosa": "pilek",
+      "rekomendasi": "https://primayahospital.com/anak/cara-mengatasi-pilek-pada-bayi/"
+    },
+    {
+      "indikasi": ["berak","hijau","tai","pup","bau","lendir","darah","encer","mencret"],
+      "diagnosa": "diare",
+      "rekomendasi": "https://www.sehatq.com/artikel/ciri-ciri-bayi-diare-seperti-apa-yang-harus-selalu-diwaspadai-orangtua"
+    },
+    {
+      "indikasi": ["batuk","ingus","kurang","nafsu","makan","tenggorokan"],
+      "diagnosa": "masalah pernapasan",
+      "rekomendasi": "https://hellosehat.com/parenting/kesehatan-anak/pernapasan-anak/penyakit-pernapasan-pada-anak/"
+    }
+  
+  ]

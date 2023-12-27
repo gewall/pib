@@ -1,13 +1,14 @@
 {
   "expo": {
-    "name": "pib",
+    "name": "CareBaby",
     "slug": "pib",
-    "version": "1.0.0",
+    "owner": "gingrha",
+    "version": "1.3.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/icon-pib.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/icon-pib.png",
       "resizeMode": "contain",
       "backgroundColor": "#ffffff"
     },
@@ -22,12 +23,18 @@
     },
     "android": {
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon-pib.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "package": "com.gingrha.carebaby"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "630470cf-8ac4-491d-9f24-9388893f0121"
+      }
     }
   }
 }

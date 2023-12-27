@@ -1,0 +1,42 @@
+[
+    {
+      "id": 1,
+      "judul": "Demam Pada Anak",
+      "artikel":
+        "Anak yang demam adalah salah satu penyebab kekhawatiran orangtua. Namun pada sebagian besar kasus, terutama apabila anak tidak     memiliki penyakit lain, kenaikan suhu tubuh hanyalah pertanda bahwa sistem kekebalan tubuh anak sedang melawan infeksi yang umum.   ",
+      "img": "https://res.cloudinary.com/dk0z4ums3/image/upload/v1654487693/attached_image/demam-pada-anak.jpg",
+      "url": "https://www.docdoc.com/id/info/condition/anak-dengan-demam"
+    },
+    {
+        "id": 2,
+        "judul": "Pilek Pada Bayi",
+        "artikel":
+          "Hampir semua bayi pasti pernah mengalami pilek. Penyebab pilek pada bayi salah satunya infeksi virus pada saluran pernapasan atas. Bayi berisiko tinggi terserang pilek karena sistem kekebalan tubuhnya masih berkembang dan belum sempurna. Saat terkena paparan virus dari lingkungan sekitar, termasuk anak yang lebih besar dan orangtua sendiri, bayi sangat mungkin mengalami infeksi dan jatuh sakit.",
+        "img": "https://primaya.b-cdn.net/wp-content/uploads/2022/07/Cara-Mengatasi-Pilek-Pada-Bayi.jpg",
+        "url": "https://primayahospital.com/anak/cara-mengatasi-pilek-pada-bayi/"
+    },
+    {
+        "id": 3,
+        "judul": "Kenali Ciri-Ciri Bayi Diare",
+        "artikel":
+          "Banyak hal dapat menyebabkan bayi diare, tapi yang paling sering adalah infeksi virus, bakteri, atau parasit lewat makanan atau minuman yang dikonsumsinya. Ciri-ciri bayi diare juga bisa menandakan alergi makanan, keracunan, hingga terlalu banyak minum jus buah dari MPASI-nya.",
+        "img": "https://cms.sehatq.com/cdn-cgi/image/format=auto,width=1080,quality=90/public/img/article_img/kenali-ciri-ciri-bayi-diare-kapan-harus-dibawa-ke-rumah-sakit-1602143755.jpg",
+        "url": "https://www.sehatq.com/artikel/ciri-ciri-bayi-diare-seperti-apa-yang-harus-selalu-diwaspadai-orangtua"
+      },
+    {
+        "id": 4,
+        "judul": "Penyakit Pernapasan pada Anak",
+        "artikel":
+          "Masalah pernapasan pada anak merupakan penyakit umum yang dialami si kecil. Biasanya orangtua mengeluhkan napas anak berbunyi grok-grok seperti terhalang sesuatu, ini juga termasuk ke dalam masalah pernapasan anak.",
+        "img": "https://cdn.hellosehat.com/2020/07/78520ef1-penyakit-pernapasan-pada-anak.jpg",
+        "url": "https://hellosehat.com/parenting/kesehatan-anak/pernapasan-anak/penyakit-pernapasan-pada-anak/"
+      },
+    {
+        "id": 5,
+        "judul": "Gejala Cacingan pada Anak",
+        "artikel":
+          "Menempelnya telur cacing di tangan atau kaki anak tanpa sengaja, yang kemudian tertelan dan masuk ke dalam tubuh, adalah salah satu cara penularan infeksi cacing yang paling sering pada anak. Sebagian besar kasus cacingan bisa tidak menunjukkan tanda yang serius. ",
+        "img": "https://dk4fkkwa4o9l0.cloudfront.net/production/uploads/article/image/826/artikel_dr_Safira.jpg",
+        "url": "https://www.herminahospitals.com/id/articles/gejala-cacingan-pada-anak-bagaimana-cara-mencegahnya.html"
+      }
+]
